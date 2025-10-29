@@ -1,0 +1,13 @@
+body { 
+    font-family:sans-serif; 
+    padding:20px;
+}
+input { margin:2px; }
+table,th,td { border:1px solid #aaa; 
+    border-collapse:collapse; 
+    padding:6px;}
+th { background:#eee;}
+button { background:#2563eb; 
+    color:#fff; border:none; 
+    padding:6px;}
+#grandTotal { margin-top:10px; font-weight:bold; }
